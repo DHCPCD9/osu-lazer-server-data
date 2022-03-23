@@ -1,1 +1,1 @@
-"# osu-lazer-server-data" 
+# osu-lazer-server-data
