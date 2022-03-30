@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "version": "2022.30.3",
+    "display_version": "2022/30/3",
+    "users": 0,
+    "created_at": "2022-03-30T10:39:08.579Z",
+    "update_stream": null,
+    "changelog_entries": [{
+        "id": 1,
+        "repository": "https://github.com/ppy/osu",
+        "github_pull_request_id": 1,
+        "github_url": "https://github.com/ppy",
+        "url": "https://google.com",
+        "type": 1,
+        "category": "Changes",
+        "title": "Server is working!",
+        "message_html": "Welcome!",
+        "major": true,
+        "created_at": "2022-03-30T10:39:08.579Z",
+        "github_user": "https://github.com/ppy"
+    }],
+    "versions": {
+        "next": null,
+        "previous": null
+    }
+
+}
